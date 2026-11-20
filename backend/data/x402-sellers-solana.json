@@ -1,0 +1,1149 @@
+[
+ {
+  "payTo": "5Wxg3V6gcmFmmP6SXmGZQAUZPFYsSwoeN2Qewt5BotWz",
+  "name": "crypto.apitoll.cloud",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://crypto.apitoll.cloud/v1/crypto/price",
+   "https://crypto.apitoll.cloud/v1/crypto/perps",
+   "https://crypto.apitoll.cloud/v1/crypto/sentiment",
+   "https://crypto.apitoll.cloud/v1/crypto/global",
+   "https://crypto.apitoll.cloud/v1/crypto/chart"
+  ]
+ },
+ {
+  "payTo": "9MkM5Ra48KFcSv9HDQ8sb3C3r5HjouEwGQ6sp1cx1vde",
+  "name": "glim.sh",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://glim.sh/api/v1/twitter/search",
+   "https://glim.sh/api/v1/twitter/tweets/search",
+   "https://glim.sh/api/v1/reddit/search",
+   "https://glim.sh/api/v1/amazon/search",
+   "https://glim.sh/api/v1/github/search"
+  ]
+ },
+ {
+  "payTo": "5yASLjtNssGXDv6bR9e71WXKxRymDiUzbgkGPqkQNgRn",
+  "name": "api.bitrefill.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.bitrefill.com/x402/gift-cards/search",
+   "https://api.bitrefill.com/x402/gift-cards/search",
+   "https://api.bitrefill.com/x402/checkout/info",
+   "https://api.bitrefill.com/x402/checkout/info",
+   "https://api.bitrefill.com/x402/invoice/pay"
+  ]
+ },
+ {
+  "payTo": "3nXsChcZGke6xebDPmndNMCt8L3yi6xyN4Pd6q5cQrgv",
+  "name": "twitter.use.x402atlas.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://twitter.use.x402atlas.com/search",
+   "https://websearch.use.x402atlas.com/search",
+   "https://wiki.use.x402atlas.com/summary",
+   "https://headers.use.x402atlas.com/",
+   "https://hyperliquid-predict.use.x402atlas.com/outcomes"
+  ]
+ },
+ {
+  "payTo": "46vMcwuC4sK11sB3gkLhyA7J7GEwfkhn5rFyDtihBwqe",
+  "name": "minifetch.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://minifetch.com/api/v1/x402/preflight/url-check",
+   "https://minifetch.com/api/v1/x402/extract/url-metadata",
+   "https://minifetch.com/api/v1/x402/extract/url-content",
+   "https://minifetch.com/api/v1/x402/extract/url-preview",
+   "https://minifetch.com/api/v1/x402/extract/url-links"
+  ]
+ },
+ {
+  "payTo": "GBfJMhGiGJeWDcve1G673hEp8DLmMFomvSEHMzRfmcJu",
+  "name": "rubric-protocol.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://rubric-protocol.com/v1/x402/hedera-facts/exchange-rate",
+   "https://rubric-protocol.com/v1/x402/hedera-facts/supply",
+   "https://rubric-protocol.com/v1/x402/hedera-facts/usdc-supply",
+   "https://rubric-protocol.com/v1/x402/hedera-facts/anchor-cost",
+   "https://rubric-protocol.com/v1/x402/hedera-facts/nodes"
+  ]
+ },
+ {
+  "payTo": "FgcKNzsBXSEHGNZNWetPsjXiBZk1WFoU6sF2zVsnzXfa",
+  "name": "quartermaster.surewhynot.app",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://quartermaster.surewhynot.app/v1/gas",
+   "https://quartermaster.surewhynot.app/v1/http-check",
+   "https://quartermaster.surewhynot.app/v1/dns",
+   "https://quartermaster.surewhynot.app/v1/random",
+   "https://quartermaster.surewhynot.app/v1/balance"
+  ]
+ },
+ {
+  "payTo": "9e4z6QAGPT9Nj7nDsxQT7Vthbx8d8NnYCLWrejL2SZsJ",
+  "name": "tolca.tonbot.ca",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://tolca.tonbot.ca/v1/web-search",
+   "https://tolca.tonbot.ca/v1/qc-licence",
+   "https://tolca.tonbot.ca/v1/pkg-check",
+   "https://tolca.tonbot.ca/v1/translate",
+   "https://tolca.tonbot.ca/v1/verify-business"
+  ]
+ },
+ {
+  "payTo": "J7ZvJEspvwP1oRxQZ7mYmNmT22NTm3GWq3t7HEbvPZYx",
+  "name": "api.nansen.ai",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.nansen.ai/api/v1/profiler/address/current-balance",
+   "https://api.nansen.ai/api/v1/tgm/who-bought-sold",
+   "https://api.nansen.ai/api/v1/tgm/token-information",
+   "https://api.nansen.ai/api/v1/profiler/address/related-wallets",
+   "https://api.nansen.ai/api/v1/profiler/address/pnl-summary"
+  ]
+ },
+ {
+  "payTo": "E5Z17Jxsr4cimRUpgcZV29PnX3SqBWH3TqzUsS3DBgkU",
+  "name": "data.tollkit.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://data.tollkit.dev/sec/company",
+   "https://chain.tollkit.dev/chain/balance",
+   "https://chain.tollkit.dev/chain/price",
+   "https://web.tollkit.dev/search/read",
+   "https://chain.tollkit.dev/chain/perps"
+  ]
+ },
+ {
+  "payTo": "6XcSfqJHr9vNW2vbiRaMqUYVm7shDgLepca54wUTDPN5",
+  "name": "x402.ottoai.services",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402.ottoai.services/crypto-news",
+   "https://api.aidress.ai/pay/agent_ottoai_crypto_news",
+   "https://x402.ottoai.services/tweet-search",
+   "https://x402.ottoai.services/token-details",
+   "https://x402.ottoai.services/weather"
+  ]
+ },
+ {
+  "payTo": "EjwKsavtpL4MeboquZgFerQy6voUbKqJv5TyukEH8vPN",
+  "name": "tariffmonkee.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://tariffmonkee.com/paid/ping",
+   "https://tariffmonkee.com/paid/content",
+   "https://tariffmonkee.com/paid/fetch-clean",
+   "https://tariffmonkee.com/paid/email-verify",
+   "https://tariffmonkee.com/paid/linkcheck"
+  ]
+ },
+ {
+  "payTo": "7xicmqu8zQiLK3SF57oetANRWd9Y69wNhFK7XZBQ6kQ8",
+  "name": "www.x402pulse.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://www.x402pulse.dev/v1/wallstreet/yield-curve",
+   "https://www.x402pulse.dev/v1/health/drug-label",
+   "https://www.x402pulse.dev/v1/oil/prices",
+   "https://www.x402pulse.dev/v1/health/recalls",
+   "https://www.x402pulse.dev/v1/travel/weather"
+  ]
+ },
+ {
+  "payTo": "8ugAWAXDB8V18kiUrGZTq1oMvU3C6Fxs8hfC6rvzQT3b",
+  "name": "ens-resolver.underscoredone.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://ens-resolver.underscoredone.com/resolve",
+   "https://bimi-checker.underscoredone.com/check",
+   "https://cors-header-checker.underscoredone.com/check",
+   "https://cpi-report-us.underscoredone.com/cpi",
+   "https://mortgage-amortization.underscoredone.com/calculate"
+  ]
+ },
+ {
+  "payTo": "8mAMFGi95QPiSjuenVdYGYSLcz5bviqLotaQ83cLvJb7",
+  "name": "sift.srv1996466.hstgr.cloud",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://sift.srv1996466.hstgr.cloud/v1/crypto/gas",
+   "https://sift.srv1996466.hstgr.cloud/v1/crypto/ens",
+   "https://sift.srv1996466.hstgr.cloud/v1/crypto/tx",
+   "https://sift.srv1996466.hstgr.cloud/v1/feeds",
+   "https://sift.srv1996466.hstgr.cloud/v1/crypto/balance"
+  ]
+ },
+ {
+  "payTo": "GptpyPWpqUJHXs7G1Xp7zMs1MXidunsWDW4APKArRhez",
+  "name": "intel.degenscan.io",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://intel.degenscan.io/v1/pulse",
+   "https://intel.degenscan.io/v1/hl/liquidations",
+   "https://intel.degenscan.io/v1/hl/markets",
+   "https://intel.degenscan.io/v1/funding/alerts",
+   "https://intel.degenscan.io/v1/oracle/board"
+  ]
+ },
+ {
+  "payTo": "66Qvhr1xnwqbCT36KfHfZF1JpoWdmCQ3uFYTN335CGXe",
+  "name": "api.solenrich.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.solenrich.com/entrypoints/parse-transaction/invoke",
+   "https://api.solenrich.com/entrypoints/enrich-token-light/invoke",
+   "https://api.solenrich.com/entrypoints/enrich-token-full/invoke",
+   "https://api.solenrich.com/entrypoints/stonk-gems/invoke",
+   "https://api.solenrich.com/entrypoints/enrich-wallet-light/invoke"
+  ]
+ },
+ {
+  "payTo": "7zBC8YJQAFszUV6qF2HPAR4kZtY1jsQivjY2tvFE8qCR",
+  "name": "toolrail.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://toolrail.dev/latam/dolar-argentina",
+   "https://toolrail.dev/vat/rates",
+   "https://toolrail.dev/cl/dias-habiles",
+   "https://toolrail.dev/latam/iva",
+   "https://toolrail.dev/cl/rut"
+  ]
+ },
+ {
+  "payTo": "ATWJ82T8nRdQwZnaysB68N5EpaSvLRsQP4h6eWmaJBH9",
+  "name": "x402-doctor.fizzl.eu",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402-doctor.fizzl.eu/api/v1/preflight",
+   "https://x402-doctor.fizzl.eu/api/v1/preflight",
+   "https://presign-guard.fizzl.eu/v1/token",
+   "https://presign-guard.fizzl.eu/v1/token",
+   "https://presign-guard.fizzl.eu/v1/check"
+  ]
+ },
+ {
+  "payTo": "3snkxosXCo6x5AEBRvnRG6wzJsvBaPpNd68Q2jJ4CVzW",
+  "name": "stationfx.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://stationfx.com/economic-data/cross-signal/financial-conditions-composite-nfci-stlfsi",
+   "https://stationfx.com/economic-data/cross-signal/real-federal-funds-rate",
+   "https://stationfx.com/economic-data/cross-signal/real-10-year-treasury-yield",
+   "https://stationfx.com/economic-data/cross-signal/mortgage-rate-vs-10y-treasury-spread",
+   "https://stationfx.com/economic-data/labor/unemployment-rate"
+  ]
+ },
+ {
+  "payTo": "8EgACpZ16XWEt7YjJPsh1ZheVRZUGmmwQ8nJdmA1o5w4",
+  "name": "stableenrich.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://stableenrich.dev/api/fullenrich/people-search",
+   "https://stableenrich.dev/api/exa/search",
+   "https://stableenrich.dev/api/pdl/people-enrich",
+   "https://stableenrich.dev/api/exa/contents"
+  ]
+ },
+ {
+  "payTo": "7kPWiEbDXu33FomKG6mGa7R8HGSfUGFsAoKFZeBERJaH",
+  "name": "edgar.apitoll.cloud",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://edgar.apitoll.cloud/v1/edgar/filings",
+   "https://api.aidress.ai/pay/agent_edgar_apitoll_cloud",
+   "https://edgar.apitoll.cloud/v1/edgar/smart-money",
+   "https://edgar.apitoll.cloud/v1/edgar/holdings"
+  ]
+ },
+ {
+  "payTo": "6apuZvJQ51Led9iEjnHw6f5jfnXL4qjt8S1h58PeXzuR",
+  "name": "api.anchor-x402.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.anchor-x402.com/v1/price/token",
+   "https://api.anchor-x402.com/v1/roll",
+   "https://api.anchor-x402.com/v1/parse/datetime",
+   "https://api.anchor-x402.com/v1/decode/tx"
+  ]
+ },
+ {
+  "payTo": "GYyTRmt317JafPHXPnM54Fsvsma5GnS9wm6qGMqaykdS",
+  "name": "api.oblique.markets",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.oblique.markets/api/v1/paid/time",
+   "https://api.oblique.markets/api/v1/paid/base-block-number",
+   "https://api.oblique.markets/api/v1/paid/base-gas-price",
+   "https://api.oblique.markets/api/v1/paid/bazaar-pulse"
+  ]
+ },
+ {
+  "payTo": "9wNzkrGAqbv1DSfM5EM12qBPdUUiaV3Vjg4wqu12H8j",
+  "name": "api.telemost.io",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.telemost.io/v1/data/entities",
+   "https://api.telemost.io/v1/ads/networks",
+   "https://api.telemost.io/v1/stats/channel",
+   "https://api.telemost.io/v1/data/post"
+  ]
+ },
+ {
+  "payTo": "EX4MyYWHc7NKBGuytmMpxixM7ovSWYLNy5acN2mFfoGd",
+  "name": "www.trezalabs.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://www.trezalabs.com/api/x402/video",
+   "https://www.trezalabs.com/api/x402/image",
+   "https://www.trezalabs.com/api/x402/speech",
+   "https://www.trezalabs.com/api/x402/music"
+  ]
+ },
+ {
+  "payTo": "9iubApKktcxphCVgBg9CPRPhSH8nkzVRSapxhYwxfCVS",
+  "name": "cyre.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://cyre.dev/api/lockbox/match",
+   "https://cyre.dev/api/route",
+   "https://cyre.dev/api/gate",
+   "https://cyre.dev/api/policy/check"
+  ]
+ },
+ {
+  "payTo": "3MZVk97x9SeRxbYpc3jhzRfU2fyA3emYutnqfn9kNfYX",
+  "name": "laso.finance",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://laso.finance/auth",
+   "https://laso.finance/order-gift-card",
+   "https://x402endpoint-utiwoa54hq-uc.a.run.app/auth"
+  ]
+ },
+ {
+  "payTo": "9xhCVzDP9dH2s7zMSdGhNUAMasRGR3LUPEYC3R3Mtdyy",
+  "name": "fomo.x4o2.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://fomo.x4o2.com/v1/leaderboard",
+   "https://fomo.x4o2.com/v1/search",
+   "https://fomo.x4o2.com/v1/feed"
+  ]
+ },
+ {
+  "payTo": "787RZwDGpjmRsG5wgnyBeWQHBuARax8Qo6P7dmDuqKeW",
+  "name": "x402-seller-pmlm.onrender.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402-seller-pmlm.onrender.com/price",
+   "https://x402-seller-pmlm.onrender.com/gas",
+   "https://x402-seller-pmlm.onrender.com/news"
+  ]
+ },
+ {
+  "payTo": "CHHWRYyo8exGvcLGn3AxzHEZseLZDTnq3FaYkzZVQDQr",
+  "name": "readx.sh",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://readx.sh/api/search/tweets",
+   "https://readx.sh/api/trends",
+   "https://readx.sh/api/:name"
+  ]
+ },
+ {
+  "payTo": "Aujwcy6DgrXbrxcqpcX7eLRxBooescXBN8SyBMvVe1Kb",
+  "name": "quantx402.app",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://quantx402.app/api/v1/news",
+   "https://quantx402.app/api/v1/signal",
+   "https://quantx402.app/api/v1/track-record"
+  ]
+ },
+ {
+  "payTo": "985iFjbnGQ3dJcwXnfRCMSrH4Jnc3kW1N6msR64B5KX1",
+  "name": "onchainpulse.theaslangroupllc.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://onchainpulse.theaslangroupllc.com/api/facet/honeypot",
+   "https://macropulse.theaslangroupllc.com/api/market/is-open",
+   "https://onchainpulse.theaslangroupllc.com/api/token-safety"
+  ]
+ },
+ {
+  "payTo": "3nmeVj5m9Uq2hSTfsVsn3tJMHRJQNMKR1AjzyUJbrSgw",
+  "name": "read.lonestaroracle.xyz",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://read.lonestaroracle.xyz/read",
+   "https://earnings.lonestaroracle.xyz/calendar",
+   "https://minerals.lonestaroracle.xyz/minerals"
+  ]
+ },
+ {
+  "payTo": "GqSs5L9aPWGJwyRQe35YKQaWMDPh3R1dMqfSEPhSgkM",
+  "name": "palmyr.ai",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://palmyr.ai/social/twitter/pool/mine",
+   "https://palmyr.ai/social/twitter/registered/mine",
+   "https://palmyr.ai/social/twitter/profile"
+  ]
+ },
+ {
+  "payTo": "yEx9WBP1NnzoTpDmi67F536bso3YNcQPBRhWRoswTBS",
+  "name": "concordancehq.duckdns.org",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://concordancehq.duckdns.org/tools/search",
+   "https://chainsscope.duckdns.org/tools/fee-estimate",
+   "https://chainsscope.duckdns.org/tools/address-activity"
+  ]
+ },
+ {
+  "payTo": "4an2sqamWWhny9mjLsMtGXCDXakeNtg6vSLq4QvhdmQu",
+  "name": "ask.singitai.app",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://ask.singitai.app/v1/chat/completions",
+   "https://ask.singitai.app/v1/chat/completions",
+   "https://ask.singitai.app/v1/exa/contents"
+  ]
+ },
+ {
+  "payTo": "8FVeybWnB4dYrxTuPK7WzFZNAiEcFVaDLFnKpRwVGr5s",
+  "name": "netintel.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://netintel.dev/web/extract",
+   "https://netintel.dev/weather/current",
+   "https://netintel.dev/email-auth"
+  ]
+ },
+ {
+  "payTo": "GEhr9HCFTRDjanMg435frSgCVwVZYpNoPrEkmNBnFHFE",
+  "name": "api.losbeto.xyz",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.losbeto.xyz/chain-block",
+   "https://api.losbeto.xyz/gas-price",
+   "https://api.losbeto.xyz/ping402"
+  ]
+ },
+ {
+  "payTo": "BESFJe2NoWVHefr94deAA7C41wCmg2RW9zob11akRFSg",
+  "name": "www.cultos.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://www.cultos.dev/services/hash-integrity",
+   "https://www.cultos.dev/services/x402-lens",
+   "https://www.cultos.dev/services/environment-contract"
+  ]
+ },
+ {
+  "payTo": "12Ec2cJmfR1C9uwejzxcuMhUgEC7wDrLgm1wBvvR5w9E",
+  "name": "api.exa.ai",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.exa.ai/search",
+   "https://api.exa.ai/contents"
+  ]
+ },
+ {
+  "payTo": "473o2o4QaubXvvAFr9jikTCEirA6xhpzMSBxJpbTocLf",
+  "name": "www.blockchainiq.co",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://www.blockchainiq.co/api/x402/v1/brief",
+   "https://www.blockchainiq.co/api/x402/v1/event-risk"
+  ]
+ },
+ {
+  "payTo": "ECUPkq6DP8VUSEueL4qNznyNDJLwu6PQhnMQ5cuZsTLH",
+  "name": "agi.apify.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://agi.apify.com/protocols/x402/prepaid-tokens",
+   "https://agi.apify.com/protocols/x402/prepaid-tokens"
+  ]
+ },
+ {
+  "payTo": "9fqXniDAn8hNMYC5C9waGv5u126bkwjU6qGgAoQeoWyo",
+  "name": "x402tap.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402tap.com/api/weather",
+   "https://x402tap.com/api/insights"
+  ]
+ },
+ {
+  "payTo": "95xcrFtRVn2fkoAKiCUKxPpTc1GN8MTyonVwLFfJfzux",
+  "name": "stableupload.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://stableupload.dev/api/upload",
+   "https://stableupload.dev/api/site"
+  ]
+ },
+ {
+  "payTo": "6bfN4hVbypmM1p4mV4qUpNushvm3W8GiAv1CrqEfiUdM",
+  "name": "api.arkm.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.arkm.com/x402/intelligence/address",
+   "https://api.arkm.com/x402/intelligence/entity"
+  ]
+ },
+ {
+  "payTo": "DGxcPrAHL9YM3hW7iXuHFJmr87Zr6AMA4jCYHBpuvMgE",
+  "name": "scvd.store",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://scvd.store/api/buy/spot_check",
+   "https://scvd.store/api/buy/small_blessing"
+  ]
+ },
+ {
+  "payTo": "VXbuAtfujvaARnzCv38PehXSHA9xccXiQGHvqUBg2YN",
+  "name": "pool.linkrra.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://pool.linkrra.com/api/billing/x402/chat/completions",
+   "https://pool.linkrra.com/api/billing/x402/models/gpt-oss-20b/chat/completions"
+  ]
+ },
+ {
+  "payTo": "5HGarauHaGFynzwNBqLkKcQ4LFR4UCXKZE7bJuP6Ew2N",
+  "name": "coil.trade",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://coil.trade/api/crypto/gate",
+   "https://coil.trade/api/crypto/night"
+  ]
+ },
+ {
+  "payTo": "yUdt7ThMbP5mvtLtURiwK3wgnhexuFtbKC9LEgb1Q8e",
+  "name": "brasil-dados-api.onrender.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://brasil-dados-api.onrender.com/cambio",
+   "https://brasil-dados-api.onrender.com/economy/ipca"
+  ]
+ },
+ {
+  "payTo": "Bi6QZzf9SEBg3dzoYmE6RvqPXp4pVJHWhWg2ATfprU8f",
+  "name": "bob.assimilatethis.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://bob.assimilatethis.com/search",
+   "https://bob.assimilatethis.com/summarize"
+  ]
+ },
+ {
+  "payTo": "5MoL8HNnvZUogGrqiF4T1StmAUpdU7ERA2GUJ7gLrEja",
+  "name": "perp-gap-api.perpgap.workers.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://perp-gap-api.perpgap.workers.dev/catalog/full",
+   "https://perp-gap-api.perpgap.workers.dev/pm/scan"
+  ]
+ },
+ {
+  "payTo": "5hqrYCkTNe5z9Uc8o29KDNd2Gn9YreE6ZthZ7QY5hrKY",
+  "name": "x402.aispace.bot",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402.aispace.bot/api/v1/image/generate",
+   "https://x402.aispace.bot/api/v1/video/queue"
+  ]
+ },
+ {
+  "payTo": "2147pBT4LxoszjvLeGRxyVzpRnMi986VH3FAoprSs8Ez",
+  "name": "store.agentexchange.work",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://store.agentexchange.work/weather/forecast",
+   "https://store.agentexchange.work/chain/block-number"
+  ]
+ },
+ {
+  "payTo": "3Viebmp8ERorPNNbcUHgNw2dZMQNwH3yBuQTkjdYwQaH",
+  "name": "x402-btc-radar.jinli-x402.workers.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402-btc-radar.jinli-x402.workers.dev/v1/btc/radar/latest",
+   "https://x402-btc-radar.jinli-x402.workers.dev/v1/token/risk"
+  ]
+ },
+ {
+  "payTo": "FdQ2FmAydXBe87Nm7w4MjksRqTUjahPaqjj7mVshKvNa",
+  "name": "app.fortiblox.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://app.fortiblox.com/api/tokens",
+   "https://app.fortiblox.com/api/router/volume"
+  ]
+ },
+ {
+  "payTo": "8DH2FPfSPydYXvXSxrG3tLdzDVpyJDyKG5pKkXpwK1rn",
+  "name": "api.paywallwatch.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.paywallwatch.com/v1/email/verify",
+   "https://api.paywallwatch.com/v1/ping"
+  ]
+ },
+ {
+  "payTo": "6mc4GhWFyNcMh7gAVDWrKeYjDqFtEKWKQuZ9RTw2VkfM",
+  "name": "draconic21-x402-api.onrender.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://draconic21-x402-api.onrender.com/v1/crypto_news",
+   "https://draconic21-x402-api.onrender.com/v1/treasury_fiscal_snapshot"
+  ]
+ },
+ {
+  "payTo": "BjY98A6dS3GGLZdz2zHy8wK7XAwnQgNhCc66mfmBTRPz",
+  "name": "horizonpulse.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://horizonpulse.dev/api/pulse",
+   "https://horizonpulse.dev/api/gas"
+  ]
+ },
+ {
+  "payTo": "6nZQJcTRWm6VQwa7Tg1JBUGjNznviS9fExUHb53TB3GG",
+  "name": "kaisha-api.hp-vladic.workers.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://kaisha-api.hp-vladic.workers.dev/calendar/holidays",
+   "https://kaisha-api.hp-vladic.workers.dev/calendar/business-days"
+  ]
+ },
+ {
+  "payTo": "5bKseMEr9NjCRgLuoiGPDfkvcq9usgpRQtJg6rF4wnDc",
+  "name": "sweetai.tiamatcrypto.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://sweetai.tiamatcrypto.com/api/v1/btc/grid-signal",
+   "https://sweetai.tiamatcrypto.com/api/v1/bazaar/stats"
+  ]
+ },
+ {
+  "payTo": "4syngecZXG1XeiVffWC1vLxpwxHyZnZj8gtBZyJt5DRX",
+  "name": "api.agents-trust.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.agents-trust.com/recommend"
+  ]
+ },
+ {
+  "payTo": "8XhngTRitTcUJMiaDJ6azw8GRSiFPpwhnmV3HYQLHUpL",
+  "name": "pro-api.coingecko.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://pro-api.coingecko.com/api/v3/x402/onchain/search/pools"
+  ]
+ },
+ {
+  "payTo": "2hAXt3sb2GZrtXx4ae4Ywc7enqrE191nktyL5k2nWSfg",
+  "name": "hypernatt.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://hypernatt.com/api/m2m/liq-radar"
+  ]
+ },
+ {
+  "payTo": "ALLdmmAsbUnhHS7x2556449syP5Wz73Gng4gzzLHqsC7",
+  "name": "api.chit402.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.chit402.com/v1/chat/completions"
+  ]
+ },
+ {
+  "payTo": "HqpEDUY3kV423fSAv7iaY3cQiz8qN8qEuGqLsG4s6h2c",
+  "name": "stablestudio.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://stablestudio.dev/api/upload"
+  ]
+ },
+ {
+  "payTo": "DqSMReqFwS3SqfghkM22gaXnYaX73t357cpLEmbHP6Vh",
+  "name": "news.apitoll.cloud",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://news.apitoll.cloud/v1/cointelegraph/news"
+  ]
+ },
+ {
+  "payTo": "7Cd8FJ6hCKKTphtj2oDNQrevkMc4CcHCuLNWkw38so6Q",
+  "name": "ip402.xyz",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://ip402.xyz/v1/geo"
+  ]
+ },
+ {
+  "payTo": "8BoQ6DSruSUc3HRgLWCwPmE7qcdDybcTeycmFDtC4UjJ",
+  "name": "convert.guru",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://convert.guru/api/x402/v1/detect-file-type"
+  ]
+ },
+ {
+  "payTo": "FZFwXPrnGUKZ9YzgfgXbmbaDzAS8dNEjcrBXkXoKbX9A",
+  "name": "kino402.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://kino402.com/v1/audio/tts"
+  ]
+ },
+ {
+  "payTo": "i1vkcsuxLTSSBY7ng3sg3SpCk5JfMZpDqhsqGMq6vn9",
+  "name": "veridictum.legal",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://veridictum.legal/api/v1/agent/verify"
+  ]
+ },
+ {
+  "payTo": "7RDNyur52XauoJhwWnkvYjxygUoUv3ZPiosv8Ek5Suau",
+  "name": "api.gadgethumans.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.gadgethumans.com/uuid"
+  ]
+ },
+ {
+  "payTo": "8ce9pCUe913hpaP4oheeMPJt2uRkWAq5FsuNU6zSvTkw",
+  "name": "reddit.apitoll.cloud",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://reddit.apitoll.cloud/v1/reddit/search"
+  ]
+ },
+ {
+  "payTo": "Bofhoe2ye2adNQwZJtLepeKrBZq8CtHzRwPJXgWDH69X",
+  "name": "x402check.xyz",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402check.xyz/v1/risk-check"
+  ]
+ },
+ {
+  "payTo": "2rcgAvgbmVQh279F6EVPeH3gaHNqAq1uU611Wqcxwnq1",
+  "name": "vennatta-core.onrender.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://vennatta-core.onrender.com/api/v1/extract-document"
+  ]
+ },
+ {
+  "payTo": "HiQDSev6m8QwangqGFpfHZtKGFRYkAiqi24aF6BFKJrw",
+  "name": "penny402.fun",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://penny402.fun/oblique"
+  ]
+ },
+ {
+  "payTo": "H9PEqUrPuagH87tgBpuNizmxPKFtWhWozU21bq74nL5H",
+  "name": "api.prereason.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.prereason.com/api/events"
+  ]
+ },
+ {
+  "payTo": "226DYoWb2e6uYxDkFp7vK8jZhzzh2VNvHH6DgbDsNueC",
+  "name": "whaletape.xyz",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://whaletape.xyz/coverage"
+  ]
+ },
+ {
+  "payTo": "3Ywxk31SvWKwZBdY6bLvjmn5h4mzWcT3HJ5UZbYXoVy9",
+  "name": "api.printmoneylab.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.printmoneylab.com/api/v1/kr-prices"
+  ]
+ },
+ {
+  "payTo": "34sd6wPrmoR9UG9rUgYAFtcWYSVzqDNsvH9VkCkycUeb",
+  "name": "api.weblens.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.weblens.dev/fetch/basic"
+  ]
+ },
+ {
+  "payTo": "8fyEGM5tRjMocKQWaVXyM2XvvnTxR3sWdrYtug2zeLX4",
+  "name": "api.insumermodel.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.insumermodel.com/v1/attest"
+  ]
+ },
+ {
+  "payTo": "5vX2u7mkwhxpvQYNA7SqmauJjkcfnxETQ6tKVZphzKyM",
+  "name": "blockchain-api.x402-chain-tools.workers.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://blockchain-api.x402-chain-tools.workers.dev/chain/block"
+  ]
+ },
+ {
+  "payTo": "EiJRESZjUCUufSjSb5iDmikXXeKa3C1gQwYCZR4xFocj",
+  "name": "api.vrsai.tech",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.vrsai.tech/v1/capabilities/package_install_preflight"
+  ]
+ },
+ {
+  "payTo": "AZ59bSccJmQu8Ljic1c5zxhjZitVbbutUYjBNwKLqfyD",
+  "name": "api.3route.io",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.3route.io/v1/:chainId/quote"
+  ]
+ },
+ {
+  "payTo": "8j7NNmuxmobnZh7s4Mn9vsSF1BiiGFDpBHZ2XQxz2TME",
+  "name": "api.annalist.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.annalist.dev/v1/web/readiness"
+  ]
+ },
+ {
+  "payTo": "FGbmnF4YVfNfh3VCJGGh4VkXxS5X2nzh4sw1UwahSESX",
+  "name": "agentx402pay.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://agentx402pay.com/api/rpc"
+  ]
+ },
+ {
+  "payTo": "FynLgz9YrGb3sSiATj7aXc6CrDvNLMXj8zLVYEBXSSDh",
+  "name": "oceanalt.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://oceanalt.com/api/x402/decision"
+  ]
+ },
+ {
+  "payTo": "GJ1fu5pi1WaMHWy9nR1Fh67FEtrWXKrY2Ud6fdGbq33b",
+  "name": "www.x402financialdata.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://www.x402financialdata.com/crypto-prices"
+  ]
+ },
+ {
+  "payTo": "Bd2xS189uhhnxUeBeVF3JFXrg8zQgrvqZtpqh8hgkCEQ",
+  "name": "x402.sniperx.fun",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402.sniperx.fun/api/v1/token/activities/smarttraders_smartmoney"
+  ]
+ },
+ {
+  "payTo": "4a8o45skRPcyjAdyR8yES215Swvh8uTpZD6KLarhxCJ7",
+  "name": "x402.ochinimus.app",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402.ochinimus.app/api/price"
+  ]
+ },
+ {
+  "payTo": "GBQ2FrH49gvKXu1zg7tguoLwaofn5S4NnuMs5JSYQ5GX",
+  "name": "api.you.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.you.com/v1/search"
+  ]
+ },
+ {
+  "payTo": "B4CHWQeQn7GDLZD2aW6hpGG2bEseisBFLZYECA3HDLan",
+  "name": "apiacre.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://apiacre.com/v1/data/timezone-convert"
+  ]
+ },
+ {
+  "payTo": "4eXmvApCcE8wiEWRjoDAfN5Jpdi2UFKTJ9irswV9dkX2",
+  "name": "chain-analyzer.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://chain-analyzer.com/api/v1/x402/ping"
+  ]
+ },
+ {
+  "payTo": "PFhAMHQ6xPADiH63sjpC28RfyVChoXqgHFjbX1tkU6R",
+  "name": "mysticapi.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://mysticapi.com/v1/sky/today"
+  ]
+ },
+ {
+  "payTo": "Bs3oEYkvpbzdaLN8KuCHHATfaifmSp7iLUsKBCFQyvhL",
+  "name": "bizintel-api.hahavoid0.workers.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://bizintel-api.hahavoid0.workers.dev/finance/forex-rate"
+  ]
+ },
+ {
+  "payTo": "GFpLvocNdEjnSsLH3VJQL6wGcjGxTbUBrj6fqN3Qe1Gs",
+  "name": "intel.twzrd.xyz",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://intel.twzrd.xyz/v1/intel/quick/:solana_address"
+  ]
+ },
+ {
+  "payTo": "9vWbPNMvt8ui1cNN8jWWPUWT5LPmeXzq7nr3vry1vMPH",
+  "name": "x402.miroshark.xyz",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402.miroshark.xyz/run"
+  ]
+ },
+ {
+  "payTo": "6u5LMGQC2qk9peNibahmRWxGVXrBypk8nhTCcqtiuqMY",
+  "name": "stabletravel.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://stabletravel.dev/api/google-flights/search"
+  ]
+ },
+ {
+  "payTo": "4du4AfkxFvtqEWaoRWrifoSXCknuMpAGh3BXrFPFvXFh",
+  "name": "tick.hugen.tokyo",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://tick.hugen.tokyo/tick/latest"
+  ]
+ },
+ {
+  "payTo": "3a9DUWEA34ejDaMbWo96gFfuqN2TvojJewUBCA14Dg75",
+  "name": "x402-seller-pmlm.onrender.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://x402-seller-pmlm.onrender.com/rug-check"
+  ]
+ },
+ {
+  "payTo": "D6GAZpvvLe8aUi9qZEDTXPERHpP3pwAgaeucp9ib1fW",
+  "name": "stablefinance.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://stablefinance.dev/api/news"
+  ]
+ },
+ {
+  "payTo": "HZ5rN5HmZpu2H16auY5Zt5SuJjCMBG77odVhAVSuhK1x",
+  "name": "ads.apitoll.cloud",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://ads.apitoll.cloud/v1/ads/facebook/search"
+  ]
+ },
+ {
+  "payTo": "EcgBX5ydNsGfJDrmW2qzNtJenDud8sNGSZBtt3XH2WJk",
+  "name": "qa.honeygate.app",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://qa.honeygate.app/v1/extract"
+  ]
+ },
+ {
+  "payTo": "55qfRaRiSLUVVxqTi1thUCmh4U94JfcnMAC4AvUNbbkK",
+  "name": "resolve402.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://resolve402.dev/api/verify-email"
+  ]
+ },
+ {
+  "payTo": "CBLvRo73JcDUcJUq7649YfNxp8cpY1rxuofNKoMnRP43",
+  "name": "scopeapi.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://scopeapi.dev/embeddings"
+  ]
+ },
+ {
+  "payTo": "9mMDrHabSf73MPn1ANdANSmsNw2wKiqE7JZ7eD6EUSRc",
+  "name": "api.mekler.ai",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.mekler.ai/v1/data/feeds/inspect-record-mapping"
+  ]
+ },
+ {
+  "payTo": "J7aN3PLJnTCF5qpEnvJHJsnCjcGuqC2rYtEM8Gv3xwg",
+  "name": "agent402.tools",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://agent402.tools/api/demand-radar"
+  ]
+ },
+ {
+  "payTo": "DRfYJo8dhoHNgjTvA3LndMdW6RwU8A22G8uo3SKCCkKX",
+  "name": "api.payperscreen.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://api.payperscreen.com/screen-ip"
+  ]
+ },
+ {
+  "payTo": "3fPw1ntfRAsTsDtNeJoEyoiTddJePWZ59oRoaRSBShRk",
+  "name": "soldefi.thomenz.me",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://soldefi.thomenz.me/v1/solana/pools/top"
+  ]
+ },
+ {
+  "payTo": "DMrJUdvmorbEXx8pA4R8yZ9kPfH3pUanCGxoG5AoPuTC",
+  "name": "parallax402.com",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://parallax402.com/v1/window"
+  ]
+ },
+ {
+  "payTo": "8D5DSpGroX5P9v6oGHLUVLFXujp6En1zYdf5KTTQ5N8V",
+  "name": "insider-radar-agent.insider-radar-agent.workers.dev",
+  "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+  "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "resources": [
+   "https://insider-radar-agent.insider-radar-agent.workers.dev/v1/leaderboard"
+  ]
+ }
+]
