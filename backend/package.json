@@ -1,0 +1,36 @@
+{
+  "name": "thirdlayer-backend",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun --watch src/server.ts",
+    "start": "bun src/server.ts",
+    "setup": "bun scripts/setup.ts",
+    "fund": "bun scripts/fund.ts",
+    "seed": "bun scripts/seed.ts",
+    "import:mainnet": "bun scripts/import-mainnet.ts",
+    "typecheck": "tsc --noEmit",
+    "simulate": "bun scripts/simulate.ts",
+    "fleet:create": "bun scripts/fleet-create.ts",
+    "traffic": "bun scripts/traffic.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.11.0",
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "@scure/base": "^2.4.0",
+    "@solana-program/memo": "^0.16.0",
+    "@solana-program/system": "^0.16.0",
+    "@solana-program/token": "^0.18.0",
+    "@solana/kit": "^8.6.0",
+    "@x402/core": "2.31.0",
+    "@x402/fetch": "2.31.0",
+    "@x402/hono": "2.31.0",
+    "@x402/svm": "2.31.0",
+    "hono": "^4.13.19",
+    "zod": "^4.6.7"
+  }
+}

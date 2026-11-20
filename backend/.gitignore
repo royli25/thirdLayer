@@ -1,0 +1,5 @@
+node_modules
+.env
+data/*.json
+!data/x402-sellers-solana.json
+data/*.sqlite*
